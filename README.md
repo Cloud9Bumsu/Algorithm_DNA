@@ -1,6 +1,6 @@
 # Algorithm_DNA
 ### 팀원명&맡은 알고리즘
- <table border="1">
+ <table>
 	<th>이름</th>
 	<th>알고리즘</th>
 	<tr><!-- 첫번째 줄 시작 -->
